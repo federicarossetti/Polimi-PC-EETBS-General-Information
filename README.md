@@ -17,7 +17,7 @@ Before attending the first session of the course you should fill the following s
 
 ## Git Installation 
 
-Please download and install GIT on your PC from this [Link](https://git-scm.com/downloads), pay attention that you should first choose your oeprating system (Mac OS X, Windows or Linux/Unix).
+Please download and install GIT on your PC from this [Link](https://git-scm.com/downloads), pay attention that you should first choose your operating system (Mac OS X, Windows or Linux/Unix).
  
 ### Canopy
 
