@@ -1,6 +1,6 @@
 # Polimi-PC-EETBS-General-Information
 
-## Course Survey
+
 
 Welcome to Polimi's Energy and Environmental Technologies for Building Systems course. 
 Before attending the first session of the course you should fill the following survey in which you should inform us about your personal and contact information, academic background, and software skills.
