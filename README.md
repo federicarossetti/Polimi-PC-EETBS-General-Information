@@ -26,7 +26,7 @@ Please install Canopy for Python 2.7 (not 3.5 !)  on your system, you can choose
 In case you received an error during the installation procedure, I would suggest you to search for it on Google where you can commonly find the corresponding solutions. Since these errors are usally case specific and depend on the configuration of your laptop, it will not be possible to resolve them during the lesson. One common issue that students had encountered was that Avira and Avast antivirus  might block the installation, you can deactivate it temporarily during installation if you encountered such an issue.  In case you had installation issues and you could not find a solution to resolve them, you can alternatively install Anaconda [here](https://www.anaconda.com/download/) ( Python 2.7 and not 3.6), once you have the anaconda installed, you should search for Spyder Editor which will be similar to the Canopy's environment.
  
  ## SketchUp Installation 
-
+You can download sketchup from the following link :
 
 
  
